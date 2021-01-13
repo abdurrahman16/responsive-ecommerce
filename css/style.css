@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    
+    
+}
+h2{
+
+}
+h3{}
+.card-image{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+    
+}
+.logo{
+    width: 300px;
+    height: 50px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+ .front-image img{
+        width: 100%;
+ }
+ div.para-gap {
+    line-height: 80%;
+    margin-top: 100px;
+  }    
+.btn-color{
+    text-decoration: none;
+    background-image: linear-gradient(60deg,#A4BB46, rgb(105, 207, 22)) ;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 10px;
+    
+}
+.product-image img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+   
+
+
+}
+.btn-img img{
+width: 24px;
+height: 24px;
+left: 169px;
+top: 442px;
+
+}
+section{
+    max-width: 800px;
+}
+.icon img{
+width: 78px;
+height: 82px;
+margin-left: 50px;
+margin-top: 15px;
+}
+
